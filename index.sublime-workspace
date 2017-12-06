@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"className"
+			],
+			[
+				"edit",
+				"editItem"
+			],
+			[
+				"q",
+				"querySelectorAll"
+			],
+			[
+				"add",
+				"addSum"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"num",
+				"num-one"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"s",
+				"send"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"c",
+				"client"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/panyiru/Desktop/fruit.html",
+		"/Users/panyiru/Desktop/input.js",
+		"/Users/panyiru/Desktop/boot.html",
+		"/Users/panyiru/Desktop/index.html",
+		"/Users/panyiru/Desktop/hello.html",
+		"/Users/panyiru/Desktop/style.css",
+		"/Users/panyiru/Desktop/chat.html",
+		"/Users/panyiru/Desktop/index.js",
+		"/Users/panyiru/Desktop/helloworld.html",
+		"/Users/panyiru/Downloads/好例子网_WebSocket.java",
+		"/Users/panyiru/Downloads/websocket-master/src/main/java/com/pmeade/websocket/io/WebSocketServerOutputStream.java",
+		"/Users/panyiru/Downloads/websocket-master/src/main/java/com/pmeade/websocket/io/WebSocketServerInputStream.java",
+		"/Users/panyiru/Desktop/Java-WebSocket-master/src/main/java/org/java_websocket/WebSocket.java",
+		"/Users/panyiru/Desktop/Java-WebSocket-master/README.markdown",
+		"/Users/panyiru/Desktop/demo code/CarDemo.java",
+		"/Users/panyiru/Desktop/demo code/Direction.java",
+		"/Users/panyiru/Desktop/demo code/Car.java",
+		"/Users/panyiru/Downloads/Direction.java",
+		"/Users/panyiru/Downloads/Car.java",
+		"/Users/panyiru/Downloads/CarDemo.java",
+		"/Users/panyiru/Desktop/Java review/  Poker2/Poker.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Project/Poker.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Poker_anonymous version/Rank.java",
+		"/Users/panyiru/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/45f454395484cb7f1c9942f30e95572e/Message/MessageTemp/7ccf63256a0aaec59aa363733f00d956/File/project1/Player.java",
+		"/Users/panyiru/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/45f454395484cb7f1c9942f30e95572e/Message/MessageTemp/7ccf63256a0aaec59aa363733f00d956/File/project1/Poker.java",
+		"/Users/panyiru/Desktop/Java review/Poker3/Poker.java",
+		"/Users/panyiru/Desktop/Java review/Poker.java",
+		"/Users/panyiru/Desktop/Java review/java project for peer reviewing/Pokerhand.java",
+		"/Users/panyiru/Desktop/Java review/java project for peer reviewing/suit.java",
+		"/Users/panyiru/Desktop/Java review/java project for peer reviewing/Poker.java",
+		"/Users/panyiru/Desktop/Java review/java project for peer reviewing/Input.java",
+		"/Users/panyiru/Downloads/Poker.java",
+		"/Users/panyiru/Downloads/java project for peer reviewing/suit.java",
+		"/Users/panyiru/Downloads/java project for peer reviewing/rank.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Poker_anonymous version/Suit.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Poker_anonymous version/Poker.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Poker_anonymous version/Player.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Poker_anonymous version/Kind.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/Poker_anonymous version/Card.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/anonymous version/Rank.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/anonymous version/Suit.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/anonymous version/Card.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/anonymous version/Player.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/assessed lab/anonymous version/Poker.java",
+		"/Users/panyiru/Desktop/Java Programming/Lab/Checker.java",
+		"/test.html",
+		"/Users/panyiru/Desktop/Java Programming/Lab/Efficiency.java",
+		"/Users/panyiru/Desktop/Factors.java",
+		"/Users/panyiru/Desktop/Efficiency.java",
+		"/Users/panyiru/Desktop/Welcome.java",
+		"/Users/panyiru/Desktop/data.html",
+		"/Users/panyiru/Downloads/Java入门123源码/Java123源码/Chapter21/src/com/javaeasy/communication/UDPMessager.java",
+		"/Users/panyiru/Downloads/Java入门123源码/Java123源码/Chapter22/src/com/javaeasy/testjdbcodbcbridge/TestDatasource.java",
+		"/Users/panyiru/Downloads/Java入门123源码/Java123源码/Chapter22/src/com/javaeasy/bookframe/MainBookFrame.java",
+		"/Users/panyiru/Downloads/Java入门123源码/Java123源码/Chapter22/src/com/javaeasy/bookframe/BookFrame.java",
+		"/Users/panyiru/Desktop/as.html",
+		"/Users/panyiru/Desktop/table.html",
+		"/Users/panyiru/Desktop/bullet.html",
+		"/Users/panyiru/Desktop/image.html",
+		"/Users/panyiru/Desktop/untitled.html",
+		"/Users/panyiru/Desktop/try.html",
+		"/Users/panyiru/Desktop/head.html",
+		"/<!DOCTYPE html>.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
